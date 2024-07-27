@@ -1,26 +1,26 @@
 # Computer_Graphics_Project
 Demonstration: https://youtu.be/c0WMaGYZFtg?si=mc6D60BrE33cauvn
 
-MST. UMMAY FATEMA MIM &nbsp;
-ALNAFI &nbsp;
-SUMAIYA SULTANA TARIN &nbsp;
-APON KUMAR DAS &nbsp;
-ZANNATUS SURIYA SUCY &nbsp;
+**MST. UMMAY FATEMA MIM** <br/>
+**ALNAFI** <br/>
+**SUMAIYA SULTANA TARIN** <br/>
+**APON KUMAR DAS** <br/>
+**ZANNATUS SURIYA SUCY** <br/>
 
-Introduction:
+**Introduction:**
 Join us on the Moon Quest mission, embarking on a groundbreaking journey to explore the moon and push the limits of human exploration and discovery. Imagine standing on the moon, gazing out at the vast expanse of space, and pushing the boundaries of our universe knowledge.
 
-Objective Of Moon Quest:
+**Objective Of Moon Quest:**
 The Moon Quest seeks to establish a sustainable human presence on the lunar surface, driving scientific advancement, technological innovation, and global collaboration for a prosperous future in space.
 
-Features: &nbsp;
+**Features:** <br/>
 1.Explore Moon: Uncover mysteries, navigate        
-      challenges. &nbsp;
-2. Build Base: Customize for survival, research. &nbsp;
-3. Science: Experiment, learn about lunar realm. &nbsp;
-4. Story: Decide, unfold narrative. &nbsp;
-5. Multiplayer: Cooperate on missions. &nbsp;
-6. Immersive: Realistic visuals, sound. &nbsp;
+      challenges. <br/>
+2. Build Base: Customize for survival, research. <br/>
+3. Science: Experiment, learn about lunar realm. <br/>
+4. Story: Decide, unfold narrative. <br/>
+5. Multiplayer: Cooperate on missions. <br/>
+6. Immersive: Realistic visuals, sound. <br/>
 
 Cover Page (1)
 ![image](https://github.com/user-attachments/assets/f7d35ea3-1aef-48d5-ba51-2a0c2047a31a)
